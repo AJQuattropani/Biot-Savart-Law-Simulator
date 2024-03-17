@@ -21,6 +21,13 @@ The question is this:
 
 __What is the magnetic field along points coplanar to the loop? How can the integral be reduced and approximated to optimize performance while minimizing discrepancies between the true solution and the computational method selected?__
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="B-Field Coplanar Dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="B-Field Coplanar.png">
+ <img alt="An image showing the problem's setup and relevant quantities." src="B-Field Coplanar.png">
+</picture>
+
+
 This leads to further questions, such as:
 
 __Is there a way to iteratively generate better approximations to the problem in terms of elementary functions, which is simultaneously computationally efficient and converges rapidly?__
