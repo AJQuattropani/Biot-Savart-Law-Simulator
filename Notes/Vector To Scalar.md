@@ -55,7 +55,7 @@ $$
 Finally, we find the cubed-magnitude of $`\vec{r}`$, simple with either the dot product or Law of Cosines:
 
 $$
-| \vec{r} |^3 = ( \vec{r} \cdot \vec{r} )^3/2 = a^3 (\beta^2 + 2\beta\cos(\theta) + 1)^{3/2}
+| \vec{r} |^3 = ( \vec{r} \cdot \vec{r} )^{3/2} = a^3 (\beta^2 + 2\beta\cos(\theta) + 1)^{3/2}
 $$
 
 Altogether, we find the following for $`d\vec{H}`$:
