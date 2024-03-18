@@ -24,7 +24,7 @@ __What is the magnetic field along points coplanar to the loop? How can the inte
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="B-Field Coplanar Dark.png">
  <source media="(prefers-color-scheme: light)" srcset="B-Field Coplanar.png">
- <img alt="An image showing the problem's setup and relevant quantities." src="B-Field Coplanar.png">
+ <img alt="An image showing the problem's setup and relevant quantities." src="B-Field Coplanar Dark.png">
 </picture>
 
 
