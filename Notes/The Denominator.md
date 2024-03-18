@@ -20,7 +20,7 @@ $$
 P(\beta | \theta)=\beta^2+2\beta\sin(\theta)+1
 $$
 
- The parameter generates a smooth continuum of polynomial functions that are like 'between states' with vertexes in the form of $`V(b) = (-\sin(b),\cos^2(b))`$ or $`V(x) = (x,1-x^2), \quad |x|\leq 1`$.
+ The parameter generates a smooth continuum of polynomial functions that are like 'between states' with vertexes in the form of $`V(\theta) = (-\sin(\theta),\cos^2(\theta))`$ or $`V(x) = (x,1-x^2), \quad |x|\leq 1`$.
 - At the max for $`sin(\theta)`$, $`\quad P(\beta)=\beta^2+2\beta+1=(\beta+1)^2`$.
 - At the min, $`P(\beta)=\beta^2-2\beta+1=(\beta-1)^2`$.
 - At the root, $`P(\beta)=\beta^2+1`$.
