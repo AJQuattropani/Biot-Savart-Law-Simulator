@@ -37,6 +37,8 @@ $$
   0\end{bmatrix}
 $$
 
+Note that this is generally true for all points $`D`$ away from the origin, in a circularly-symmetric region about $`\hat{k}`$. We have also constrained the scope of our problem to the points *co-planar* to the current-loop $`P =\{ (x,y,z)\in\mathbb{R^3} | z=0 \}`$. 
+
 In order to factor the radius as we did for $`\vec{dl}`$, we introduce a new variable $`\beta=D/a`$:
 
 $$
