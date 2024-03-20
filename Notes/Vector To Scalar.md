@@ -8,11 +8,13 @@ $$
 \vec{dH} = \frac{I}{4\pi}\frac{ \vec{dL} \times \vec{r} }{|\vec{r}|^3}
 $$
 
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="B-Field Coplanar Dark.png">
- <source media="(prefers-color-scheme: light)" srcset="B-Field Coplanar.png">
- <img alt="An image showing the problem's setup and relevant quantities." src="B-Field Coplanar Dark.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AJQuattropani/Biot-Savart-Law-Simulator/blob/085cf41eb2bc7fc075b70be86a6c70982a9c0b12/B-Field%20Coplanar%20Dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/AJQuattropani/Biot-Savart-Law-Simulator/blob/085cf41eb2bc7fc075b70be86a6c70982a9c0b12/B-Field%20Coplanar.png">
+ <img alt="An image showing the problem's setup and relevant quantities." src="https://github.com/AJQuattropani/Biot-Savart-Law-Simulator/blob/085cf41eb2bc7fc075b70be86a6c70982a9c0b12/B-Field%20Coplanar%20Dark.png">
 </picture>
+
 
 We define the current to be 0 everywhere else except on the circular path $`\vec{l}`$ with radius $`a`$, where a constant current I is flowing in the positive direction, in the direction of dL:
 
